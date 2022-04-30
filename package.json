@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start:server": "node start.js",
+    "start:server": "node tracing.js",
     "lint": "next lint"
   },
   "dependencies": {
